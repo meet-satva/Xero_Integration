@@ -1,0 +1,6 @@
+@Xero_Integration_HostAddress = http://localhost:5068
+
+GET {{Xero_Integration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
